@@ -4,16 +4,16 @@ Welcome to my Sys-Admin Helper project, the project's purpose is to help create 
 
 The script can do the next:
 ------------------------------------------------------------
-Add user : Add a new user to the system
-Modif user : change the commint assigned to the user
-Delete user : remove a user from the system
-Change user password : change the logging password for the specified user
-List users : list all users of the system
-Add user to group : add an existing user to an existing group on the system
-Remove user from group : remove an existing user from an existing group on the system
-Add new group : creat a new group on the system
-Delete group : deletes an existing group from the system
-Modify group : change the name of an existing group
-List group : list all existing groups on the system
-Disable user : make the user unable to log in
-Enabe user : re-enable the user to log in to the system
+- Add user : Add a new user to the system
+- Modif user : change the commint assigned to the user
+- Delete user : remove a user from the system
+- Change user password : change the logging password for the specified user
+- List users : list all users of the system
+- Add user to group : add an existing user to an existing group on the system
+- Remove user from group : remove an existing user from an existing group on the system
+- Add new group : creat a new group on the system
+- Delete group : deletes an existing group from the system
+- Modify group : change the name of an existing group
+- List group : list all existing groups on the system
+- Disable user : make the user unable to log in
+- Enabe user : re-enable the user to log in to the system
